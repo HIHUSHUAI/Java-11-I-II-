@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="auth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/v2ch10/auth/login.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch10/auth/action.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

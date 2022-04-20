@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="v2ch09">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/v2ch09/javax.json-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/commons-csv-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/yasson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/jsonp-jaxrs-1.2-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/javax.json-1.2-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/javax.json.bind-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/jaxb-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/gson-2.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/gson-2.8.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

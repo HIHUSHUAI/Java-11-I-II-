@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/com.horstmann.greet/com.horstmann.greet.iml" filepath="$PROJECT_DIR$/v2ch09/com.horstmann.greet/com.horstmann.greet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/com.horstmann.greetsvc/com.horstmann.greetsvc.iml" filepath="$PROJECT_DIR$/v2ch09/com.horstmann.greetsvc/com.horstmann.greetsvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/com.horstmann.util/com.horstmann.util.iml" filepath="$PROJECT_DIR$/v2ch09/com.horstmann.util/com.horstmann.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corejava.iml" filepath="$PROJECT_DIR$/corejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch02/v1ch02.iml" filepath="$PROJECT_DIR$/v1ch02/v1ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch03/v1ch03.iml" filepath="$PROJECT_DIR$/v1ch03/v1ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v1ch04/v1ch04.iml" filepath="$PROJECT_DIR$/v1ch04/v1ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.automod/v2ch09.automod.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.automod/v2ch09.automod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.exportedpkg/v2ch09.exportedpkg.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.exportedpkg/v2ch09.exportedpkg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.hellomod/v2ch09.hellomod.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.hellomod/v2ch09.hellomod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.openpkg/v2ch09.openpkg.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.openpkg/v2ch09.openpkg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.openpkg2/v2ch09.openpkg2.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.openpkg2/v2ch09.openpkg2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.openpkg3/v2ch09.openpkg3.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.openpkg3/v2ch09.openpkg3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.openpkg4/v2ch09.openpkg4.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.openpkg4/v2ch09.openpkg4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.requiremod/v2ch09.requiremod.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.requiremod/v2ch09.requiremod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch09/v2ch09.useservice/v2ch09.useservice.iml" filepath="$PROJECT_DIR$/v2ch09/v2ch09.useservice/v2ch09.useservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch12/v2ch12.iml" filepath="$PROJECT_DIR$/v2ch12/v2ch12.iml" />
+    </modules>
+  </component>
+</project>

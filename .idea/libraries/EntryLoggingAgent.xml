@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EntryLoggingAgent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/v2ch08/bytecodeAnnotations/EntryLoggingAgent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
